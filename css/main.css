@@ -1,0 +1,31 @@
+.form {
+    margin: 0 auto;
+    position: relative;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 25px;
+    width: 600px;
+    height: 900px;
+    
+}
+
+
+
+.expertise {
+    border: hidden;
+    
+}
+
+.fn, .ln, .add1, .add2, .city, .state, .zip, .ph, .expertise{
+    color: black; font-weight: bold;
+}
+
+.submit{
+    color: white; background-color: gray;
+}
+
+.submit:hover{
+    background-color: rgb(37, 223, 213);
+    color: rgb(255, 255, 255);
+
+}
